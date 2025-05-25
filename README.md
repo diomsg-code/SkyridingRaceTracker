@@ -1,3 +1,5 @@
+This repository has moved to: https://github.com/wow-addon-dev/Percursus
+
 # Skyriding Race Tracker
 
 [![GitHub Release](https://img.shields.io/github/v/release/diomsg-code/SkyridingRaceTracker?logo=github&cacheSeconds=600)](https://github.com/diomsg-code/SkyridingRaceTracker/releases)
